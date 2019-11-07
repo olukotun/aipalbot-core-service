@@ -1,0 +1,1 @@
+# aipalbot-core-service
